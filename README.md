@@ -7,4 +7,4 @@
 ![SS Tugas 2](https://user-images.githubusercontent.com/63032983/97804250-26aa8380-1c81-11eb-9b94-5c0bedae1128.png)
 
 ## Tugas 3
-![SS Tugas 3](https://user-images.githubusercontent.com/63032983/97804265-3cb84400-1c81-11eb-9965-e46d3daa9b02.png)
+![SS Tugas 3](https://user-images.githubusercontent.com/63032983/97810367-de518c80-1ca5-11eb-935e-43a5eccb9e57.png)
